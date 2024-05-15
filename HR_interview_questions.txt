@@ -1,0 +1,31 @@
+ HR INTERVIEW QUESTIONS
+
+
+1) Why should we hire you?
+Ans :-  I have one of the best skill fit in your company 
+        and i'm handling the server confidently. my relevant skills, experience,
+        and passion for the industry. I have researched the company and can add value  
+        to its growth. My positive attitude, work ethics, and long-term goals align 
+        with the job requirements, making me a committed and valuable asset to the company.
+
+2) Why do want to join our company?
+Ans:-   I want to work here is, I want to grow professionally and 
+        I think it will be the best place for me to advance my career.
+        I believe I will have the chance to enhance my skills for both personal
+        and professional growth.
+
+3) Why do you want to relocate?
+Ans :-  I'm looking for better career growth. Location does not really matter for me
+        actually i am looking for better opportunity where i can work on new technologies.
+
+4) About your current company?
+Ans:-   We have 15 in house servers or 9 local servers of linux, 4 servers of windows, 2 are solories & 
+        mostly working as test beds & we are working with client and they have 155 servers.
+        Total number of employees are 55, 35 system admins, 4 Desktop engineer, 2 for shifts,
+        2 for pick hour, 5 DBA, 4 cloud devops engineer 3 network engineer. we have DBA 
+        and network consulting teams that working on demands and other employees working on other facility.
+
+5) Why are you leaving your current job?
+Ans :-  I have looking for better opportunity, we do not have any long term project and
+        management also aware about that for job security I am looking for job change.
+
